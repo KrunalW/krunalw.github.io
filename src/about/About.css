@@ -1,0 +1,23 @@
+.about-me img {
+    margin: 0 auto;
+    width: 100%;
+  }
+  .about-me .about-text {
+    padding-top: 102px;
+  }
+  .about-me h2 {
+    margin-top: 2px;
+    margin-bottom: 12px;
+  }
+  .about-me-info:nth-of-type(1) {
+    margin-top: 16px;
+  }
+  .about-me-info {
+    margin-bottom: 9px;
+  }
+  .about-me-info span {
+    font-weight: 700;
+  }
+  .about-me .btn {
+    margin-top: 12px;
+  }
