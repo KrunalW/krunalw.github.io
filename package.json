@@ -2,7 +2,7 @@
   "name": "krunalw.github.io",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://krunalw.github.io",
+  "homepage": "http://krunalw.github.io",
   "dependencies": {
     "gh-pages": "^1.2.0",
     "react": "^16.4.1",
@@ -11,7 +11,7 @@
   },
   "scripts": {
     "predeploy": "npm run build",
-    "deploy": "gh-pages -b master -d build",
+    "build": "react-scripts build",
     "start": "react-scripts start",
     "build": "react-scripts build",
     "test": "react-scripts test --env=jsdom",
